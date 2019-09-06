@@ -1,3 +1,4 @@
-title: jlazarski.github.io 
+title: jlazarski.github.io
 exclude:
+  - index.html
 theme: jekyll-theme-time-machine
